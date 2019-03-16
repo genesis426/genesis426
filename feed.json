@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Genesis426, LLC",
+    "description": "",
+    "home_page_url": "http://genesis426.com",
+    "feed_url": "http://genesis426.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rhonda Wolf"
+    },
+    "items": [
+        {
+            "id": "http://genesis426.com/4-bedroom-appartment.html",
+            "url": "http://genesis426.com/4-bedroom-appartment.html",
+            "title": "235 East Pine",
+            "summary": "Above Ivy Jiu-Jitsu Academy by Sun Tan City Plus additional closet space! 12 Month LeaseAvailable June 1st",
+            "content_html": "<p>Above <em>Ivy Jiu-Jitsu Academy</em> by <em>Sun Tan City</em></p>\n<h2 id=\"mcetoc_1d61r2g4v0\">4 Bedrooms</h2>\n<p> </p>\n<h2 id=\"mcetoc_1d61tpekg0\">Large Common Area</h2>\n<ul>\n<li>Kitchen, Dining &amp; Living Room</li>\n<li>Stove, Microwave, &amp; Refrigerator included</li>\n<li>Freshly Painted</li>\n</ul>\n<h2 id=\"mcetoc_1d61r5o983\">Large Bathroom</h2>\n<h2 id=\"mcetoc_1d61svs4t0\">Utility/Storage Room</h2>\n<p><strong>Plus</strong> additional closet space!</p>\n<h2 id=\"mcetoc_1d61t0nk21\">Off-street Parking</h2>\n<h2 id=\"mcetoc_1d61t1ch82\">At No Cost To You</h2>\n<ul>\n<li>On-site Laundry Room</li>\n<li>Snow Removal</li>\n<li>Lawn Care</li>\n<li>Trash/Recycling</li>\n</ul>\n<h2 id=\"mcetoc_1d61t2gku4\">Well Maintained and Clean</h2>\n<h2 id=\"mcetoc_1d61t3cie5\">$1100 / Month</h2>\n<p>12 Month Lease</p>\n<h3 id=\"mcetoc_1d61t40eu6\">Available June 1st</h3>",
+            "image": "http://genesis426.com/media/posts/1/IMG_1099.JPG",
+            "author": {
+                "name": "Rhonda Wolf"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-15T16:38:14-05:00",
+            "date_modified": "2019-03-15T19:32:53-05:00"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Genesis426, LLC</title>
+    <link href="http://genesis426.com/feed.xml" rel="self" />
+    <link href="http://genesis426.com" />
+    <updated>2019-03-15T20:45:36-05:00</updated>
+    <author>
+        <name>Rhonda Wolf</name>
+    </author>
+    <id>http://genesis426.com</id>
+
+    <entry>
+        <title>235 East Pine</title>
+        <author>
+            <name>Rhonda Wolf</name>
+        </author>
+        <link href="http://genesis426.com/4-bedroom-appartment.html"/>
+        <id>http://genesis426.com/4-bedroom-appartment.html</id>
+
+        <updated>2019-03-15T19:32:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://genesis426.com/media/posts/1/IMG_1099.JPG" alt="" />
+                    Above Ivy Jiu-Jitsu Academy by Sun Tan City Plus additional closet space! 12 Month LeaseAvailable June 1st
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://genesis426.com/media/posts/1/IMG_1099.JPG" alt="" />
+                <p>Above <em>Ivy Jiu-Jitsu Academy</em> by <em>Sun Tan City</em></p>
+<h2 id="mcetoc_1d61r2g4v0">4 Bedrooms</h2>
+<p> </p>
+<h2 id="mcetoc_1d61tpekg0">Large Common Area</h2>
+<ul>
+<li>Kitchen, Dining &amp; Living Room</li>
+<li>Stove, Microwave, &amp; Refrigerator included</li>
+<li>Freshly Painted</li>
+</ul>
+<h2 id="mcetoc_1d61r5o983">Large Bathroom</h2>
+<h2 id="mcetoc_1d61svs4t0">Utility/Storage Room</h2>
+<p><strong>Plus</strong> additional closet space!</p>
+<h2 id="mcetoc_1d61t0nk21">Off-street Parking</h2>
+<h2 id="mcetoc_1d61t1ch82">At No Cost To You</h2>
+<ul>
+<li>On-site Laundry Room</li>
+<li>Snow Removal</li>
+<li>Lawn Care</li>
+<li>Trash/Recycling</li>
+</ul>
+<h2 id="mcetoc_1d61t2gku4">Well Maintained and Clean</h2>
+<h2 id="mcetoc_1d61t3cie5">$1100 / Month</h2>
+<p>12 Month Lease</p>
+<h3 id="mcetoc_1d61t40eu6">Available June 1st</h3>
+            ]]>
+        </content>
+    </entry>
+</feed>
